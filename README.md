@@ -23,6 +23,5 @@
 
 ## Использование
 Может быть использован для расчёта различных систем , представимых в виде совокупности цилиндрических слоёв
-[Для более удобного просмотра](https://colab.research.google.com/drive/1GFlegtTJbYN7CpBvHyhXd0M9yh2RhYku?usp=sharing)
-
+[Для более удобного просмотра откройте этот проект в Google Colab](https://colab.research.google.com/drive/1GFlegtTJbYN7CpBvHyhXd0M9yh2RhYku?usp=sharing)
 
