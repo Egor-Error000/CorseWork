@@ -17,9 +17,9 @@
 - Произведение самой трассировки (графики траекторий от времени в 3D и 1D)
   
 ![Рис1](images/Рисунок1.png)
-![Рис2](images/newplot (1).png)
-![Рис3](images/newplot (2).png)
-![Рис4](images/newplot (3).png)
+![Рис2](images/newplot(1).png)
+![Рис3](images/newplot(2).png)
+![Рис4](images/newplot(3).png)
 Клонируйте репозиторий:
 ```bash
    git clone https://github.com/Egor-Error000/CorseWork.git
