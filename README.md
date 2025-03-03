@@ -21,6 +21,7 @@
 ```bash
    git clone https://github.com/Egor-Error000/CorseWork.git
 ```
+[**Для более удобного просмотра откройте этот проект в Google Colab**](https://colab.research.google.com/drive/1GFlegtTJbYN7CpBvHyhXd0M9yh2RhYku#scrollTo=K_6wAWGcU-_D&line=2&uniqifier=1)
 
 ## Использование
 Может быть использован для расчёта различных систем, представимых в виде совокупности цилиндрических слоёв.
